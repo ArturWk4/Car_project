@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1512489336 source:d:\artur\programs\codeblocks\myprojects\driver oop\main.cpp
+	<iostream>
+	<string>
+	"driver.h"
+	"car.h"
+	"bmw.h"
+	<conio.h>
+
+1512339205 d:\artur\programs\codeblocks\myprojects\driver oop\driver.h
+	<windows.h>
+	<conio.h>
+	<stdexcept>
+	"car.h"
+	"garage.h"
+
+1512420421 d:\artur\programs\codeblocks\myprojects\driver oop\car.h
+	<stdexcept>
+	"driver.h"
+
+1512420753 d:\artur\programs\codeblocks\myprojects\driver oop\bmw.h
+	"car.h"
+	"driver.h"
+
+1511648518 d:\artur\programs\codeblocks\myprojects\driver oop\garage.h
+	<vector>
+	"car.h"
+
+1514772624 source:e:\artur\programs\codeblocks\myprojects\driver oop\main.cpp
+	<iostream>
+	<string>
+	"driver.h"
+	"car.h"
+	"bmw.h"
+	<conio.h>
+
+1512339205 e:\artur\programs\codeblocks\myprojects\driver oop\driver.h
+	<windows.h>
+	<conio.h>
+	<stdexcept>
+	"car.h"
+	"garage.h"
+
+1514772590 e:\artur\programs\codeblocks\myprojects\driver oop\car.h
+	<stdexcept>
+	"driver.h"
+
+1511648518 e:\artur\programs\codeblocks\myprojects\driver oop\garage.h
+	<vector>
+	"car.h"
+
+1512420753 e:\artur\programs\codeblocks\myprojects\driver oop\bmw.h
+	"car.h"
+	"driver.h"
+
